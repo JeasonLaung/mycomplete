@@ -25,7 +25,7 @@
 > php直接上手thinkphp吧，这个使你更快找到工作
 
 # Python
-* 基础 ---- 随便百度pythin语法基础
+* 基础 ---- 随便百度python语法基础
 * 爬虫 ---- 直接百度搜索requests库 和 lxml库的教程即可（这两个就已经够你爬虫了，重点学习requests,lxml知识数据的处理）
 > 不建议学python web，有时间不如学学人工智能，如脸部识别，openface
 
